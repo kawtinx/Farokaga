@@ -350,7 +350,7 @@ conn.sendMessage(m.chat, {
             },
           }, {quoted: m});
           } else if (_menu.button) {
-          conn.sendListImageButton(m.chat, `IM SILANA LITE AI\n${all}`, datas, 'instagram.com/noureddine_ouafy', thumbnail)
+          conn.sendListImageButton(m.chat, `IM HARMONY DEVE AI\n${all}`, datas, 'instagram.com/0r_9x', thumbnail)
           }
   } else {
   await conn.reply(m.chat, `"'${cmd}' could not be found. Use commands '${command} list' atau '${command} all' to see the available menu.`,m);
