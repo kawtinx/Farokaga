@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '212605784394',
- pairingNumber : '212605784394',
+ nomerbot : '212621469696',
+ pairingNumber : '212621469696',
  figlet: 'silanalite', // create a start console display
- nomorwa : '212605784394',
+ nomorwa : '212621469696',
  nameown : 'NOUREDDINE',
- nomerown : '212717457920',
+ nomerown : '212621469696',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
+ author : 'HARMONY AI',
+ namebot : '乂 deve AI',
  wm : 'SILANA LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'Harmony DEVE',
  jid: '@s.whatsapp.net'
 }
 
@@ -36,7 +36,7 @@ global.media = {
  rulesBot : 'https://telegra.ph/file/7cd8985216ffd3c376238.jpg',
  thumbnail : 'https://cdn.hisoka.net/f157ca91e615477f7ff8c138e2d6a183.jpeg',
  thumb : 'https://cdn.hisoka.net/a85121e3c86607f356102d5390423ce8.jpeg',
- logo : 'https://cdn.hisoka.net/51355cec238535562b1fe2f71e7cbcb2.jpeg',
+ logo : 'https://cdn.dribbble.com/userupload/13332400/file/original-40a662d6077dfe7df94c7534d4a5ca4d.jpg?resize=1024x768&vertical=center',
  unReg : 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
  registrasi : 'https://cdn.hisoka.net/51355cec238535562b1fe2f71e7cbcb2.jpeg',
  confess : 'https://telegra.ph/file/bfef7e33bc60dd2608ac6.jpg',
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://instagram.com/0r_9x',
+ sgh:  'https://instagram.com/0r_9x',
+ sgc: 'https://whatsapp.com/channel/0029VaeUe4uEwEk2i4vI9c1T'
 }
 // Donasi
 global.payment = {
